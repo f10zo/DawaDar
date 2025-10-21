@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💊 DawaDar
 
 **DawaDar** is a web app designed to help families manage their medications efficiently — tracking doses, schedules, and pill stock levels for each family member.  
